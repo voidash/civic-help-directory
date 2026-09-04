@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["name", "ministry", "province", "benefit", "source_url"],
+    "properties": {
+      "name": {"type": "string"},
+      "ministry": {"type": "string"},
+      "province": {"type": "string"},
+      "benefit": {"type": "string"},
+      "source_url": {"type": "string", "format": "uri"}
+    }
+  }
+}
