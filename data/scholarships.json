@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Province 1 Higher Education Scholarship",
+    "ministry": "Ministry of Social Development, Province 1",
+    "province": "Province 1",
+    "benefit": "Full tuition coverage for 240 students annually",
+    "source_url": "https://moest.gov.np"
+  },
+  {
+    "name": "Dalit Community Technical Education Grant",
+    "ministry": "Ministry of Social Development, Province 1",
+    "province": "Province 1",
+    "benefit": "NPR 40,000 per year for technical diplomas",
+    "source_url": "https://mows.gov.np"
+  },
+  {
+    "name": "Girl Child STEM Encouragement Scholarship",
+    "ministry": "Ministry of Education, Science and Technology",
+    "province": "Province 1",
+    "benefit": "NPR 12,000 per year for grades 9-12",
+    "source_url": "https://moest.gov.np"
+  }
+]
