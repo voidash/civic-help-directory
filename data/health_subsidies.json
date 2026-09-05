@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Free Dialysis Program",
+    "ministry": "Ministry of Health and Population",
+    "province": "All provinces",
+    "benefit": "Free dialysis sessions at provincial hospitals",
+    "source_url": "https://mohp.gov.np"
+  },
+  {
+    "name": "Senior Citizen Health Insurance Waiver",
+    "ministry": "Ministry of Health and Population",
+    "province": "All provinces",
+    "benefit": "Premium waiver for citizens above 70",
+    "source_url": "https://mohp.gov.np"
+  }
+]
